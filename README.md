@@ -113,20 +113,6 @@ This project is designed around the main OOP concepts. The class names below sho
 - Web or mobile versions
 - Live map integration or GPS location
 - Automatic notifications (email or SMS)
-- Photo uploads with complaints
-
-## Future Improvements
-
-These are ideas for the future, not part of the current work:
-
-- Photo attachments for complaints
-- Map or GPS-based location selection
-- Email or SMS notifications when a status changes
-- Complaint priority levels (for example, urgent or normal)
-- Search and filter options for the admin
-- Reports and statistics on complaints by category or area
-- A web or mobile version so more people can use it
-- Support for multiple languages, which would help in rural and local communities
 
 ## Contributors
 | Contributor Name | Student ID |
